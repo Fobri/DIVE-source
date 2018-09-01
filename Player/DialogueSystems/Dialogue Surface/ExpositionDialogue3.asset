@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690bb4e7cfe6b3e46a266e97c37cea41, type: 3}
+  m_Name: ExpositionDialogue3
+  m_EditorClassIdentifier: 
+  dialogueName: Captain Exposition
+  dialogue: What? What the end goal is? That's incredibly presumptious of you. What
+    if this is a non linear narrative, huh? Go on then, get to it. If you run into
+    trouble down there remember to yell as loud as you can. We won't really be able
+    to help but I've heard it's very therapeutic.

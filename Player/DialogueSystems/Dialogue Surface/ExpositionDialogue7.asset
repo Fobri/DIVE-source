@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 690bb4e7cfe6b3e46a266e97c37cea41, type: 3}
+  m_Name: ExpositionDialogue7
+  m_EditorClassIdentifier: 
+  dialogueName: Captain Exposition
+  dialogue: Man, it's real hard being out here in the sun relaxing. I get burned sooo
+    easy. And the satellite internet is <i>dreadful</i>
